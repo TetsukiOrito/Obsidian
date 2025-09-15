@@ -1,0 +1,20 @@
+# Ignore Obsidian-specific files that are often device-specific or temporary
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/app.jsonc
+.obsidian/app.json.bak
+.obsidian/backups/
+.obsidian/cache/
+.obsidian/logs/
+.obsidian/plugins/*/data.json # Ignore plugin data files to prevent conflicts, customize if you want to sync specific plugin settings
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Obsidian's trash folder
+.trash/
+
+# Optional: Ignore themes and snippets if you manage them separately or have different ones per device
+#.obsidian/themes/
+#.obsidian/snippets/
