@@ -1,4 +1,9 @@
 [
   "terminal",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-kanban",
+  "marp-slides",
+  "calendar",
+  "obsidian-memos"
 ]
