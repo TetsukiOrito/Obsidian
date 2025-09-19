@@ -1,0 +1,10 @@
+{
+  "template_folder": "templates",
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": "templates/daily_template.md"
+    }
+  ],
+  "trigger_on_file_creation": true
+}
